@@ -7,13 +7,17 @@ This GitHub repository contains the code and resources for implementing a machin
 
 The objective of this project is to build a machine learning system that can classify and predict house prices in London based on a given set of features. By applying various machine learning algorithms to a cleaned and preprocessed dataset, we aim to analyze the relationship between different features and house prices, identify important predictors, and create accurate prediction models.
 
-Features
+### Features
 Data cleaning and preprocessing using Pandas
 Data visualization using Matplotlib and Seaborn (heatmaps, pie charts, etc.)
 Implementation of popular machine learning algorithms
 Classification of house prices in London
 Prediction models for house price estimation
 Evaluation and comparison of different algorithms
+
+<img src="g1.png" width="500" height="300">
+<img src="g2.png" width="500" height="300">
+<img src="/g3.png" width="500" height="300">
 
 ### Technologies
 
